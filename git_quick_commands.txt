@@ -1,0 +1,1 @@
+to add a remote repository: git remote add NAME URL 
