@@ -25,7 +25,8 @@ for line in file:
         command = "x/"+str(address_size)+"i "+address_start
         commands.append(command)
 
-
+for command in commands:
+    print(command)
 
 
 
