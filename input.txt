@@ -1,0 +1,20 @@
+ Start Addr           End Addr       Size     Offset objfile
+            0x400000           0x401000     0x1000        0x0 /home/stephen/Desktop/simple-pt-attempt-3/simple-pt/simple-pt/hello
+            0x600000           0x601000     0x1000        0x0 /home/stephen/Desktop/simple-pt-attempt-3/simple-pt/simple-pt/hello
+            0x601000           0x602000     0x1000     0x1000 /home/stephen/Desktop/simple-pt-attempt-3/simple-pt/simple-pt/hello
+      0x7ffff7a0d000     0x7ffff7bcd000   0x1c0000        0x0 /lib/x86_64-linux-gnu/libc-2.23.so
+      0x7ffff7bcd000     0x7ffff7dcd000   0x200000   0x1c0000 /lib/x86_64-linux-gnu/libc-2.23.so
+      0x7ffff7dcd000     0x7ffff7dd1000     0x4000   0x1c0000 /lib/x86_64-linux-gnu/libc-2.23.so
+      0x7ffff7dd1000     0x7ffff7dd3000     0x2000   0x1c4000 /lib/x86_64-linux-gnu/libc-2.23.so
+      0x7ffff7dd3000     0x7ffff7dd7000     0x4000        0x0 
+      0x7ffff7dd7000     0x7ffff7dfd000    0x26000        0x0 /lib/x86_64-linux-gnu/ld-2.23.so
+      0x7ffff7fd9000     0x7ffff7fdc000     0x3000        0x0 
+      0x7ffff7ff6000     0x7ffff7ff8000     0x2000        0x0 
+      0x7ffff7ff8000     0x7ffff7ffa000     0x2000        0x0 [vvar]
+      0x7ffff7ffa000     0x7ffff7ffc000     0x2000        0x0 [vdso]
+      0x7ffff7ffc000     0x7ffff7ffd000     0x1000    0x25000 /lib/x86_64-linux-gnu/ld-2.23.so
+      0x7ffff7ffd000     0x7ffff7ffe000     0x1000    0x26000 /lib/x86_64-linux-gnu/ld-2.23.so
+      0x7ffff7ffe000     0x7ffff7fff000     0x1000        0x0 
+      0x7ffffffde000     0x7ffffffff000    0x21000        0x0 [stack]
+  0xffffffffff600000 0xffffffffff601000     0x1000        0x0 [vsyscall]
+
